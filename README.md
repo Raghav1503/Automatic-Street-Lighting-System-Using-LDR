@@ -16,6 +16,8 @@ Firstly, LDR will sense the intensity value of sunlight and send it to Arduino. 
 
 LDR is a Light Dependent Resistor whose resistance is dependent on the light impinging on it. The resistance offered by the sensor decreases with the increase in light strength and increases with the decrease in light strength. This device is used for detection of day-time and night-time because when sunlight falls on it, it will consider as day-time, and when there is no sunlight falls on it, it will be regarded as a night, as shown in Fig. 2b. These are very beneficial, especially in light/dark sensor circuits and help in automatically switching ON /OFF the street lights. 
 
+
+
 # B. Arduino Uno 
 
 The Arduino Uno  is a microcontroller board which is based on the ATmega328 series controllers and has an IDE (Integrated Development Environment) for writing, compiling and uploading codes to the microcontroller.  It has 14 digital input and output pins (of which 6 are PWM) and 6 analogue inputs for communication with the electronic components such as sensors, switches, motors and so on. It also has 16 MHz ceramic resonators, a USB connection jack, an external power supply jack, an ICSP (in-circuit serial programmer) header, and a reset button. Its operating voltage is 5v, input voltage 7 to 12v (limit up to 20v).
