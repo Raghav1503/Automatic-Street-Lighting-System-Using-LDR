@@ -83,7 +83,7 @@ void loop()
 		Serial.println(ldrStatus);	
     }
    
-}
+
  
  
  
